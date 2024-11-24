@@ -14,3 +14,6 @@ Image Gallery is a simple yet elegant web application built using HTML and CSS. 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Image_Gallery.git
+
+## 🚀 Live preview
+https://preeminent-bonbon-1c3704.netlify.app/
